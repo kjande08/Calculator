@@ -1,0 +1,15 @@
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Software1-Knowledge-Check-1/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
